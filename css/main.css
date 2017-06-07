@@ -17,3 +17,14 @@ header {
 header .fa-chevron-left {
   margin-right: 16px;
 }
+
+ .search {
+   background-color: #F44336;
+ }
+.input-search {
+  width: 40%;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+  text-align: justify;
+}

@@ -5,7 +5,7 @@ const Header = (update) => {
   const title = $("<span>Gas Finder</span>");
   const icon = $('<i class="fa fa-chevron-left" aria-hidden="true"></i>');
 
-  header.append(title);
+  header.append(title); //creando la estructura del Header //
 
-  return header;
+    return header;
 }
